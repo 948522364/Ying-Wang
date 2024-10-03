@@ -21,7 +21,6 @@
 
 ## 项目文件结构
 
-```plaintext
 ├── Wage.csv               # 数据集文件
 ├── README.md              # 项目文档
 ├── analysis_code.py        # 用于数据分析和可视化的Python代码
