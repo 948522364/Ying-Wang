@@ -19,6 +19,18 @@
 
 ---
 
+## 项目文件结构
+
+```plaintext
+├── Wage.csv               # 数据集文件
+├── README.md              # 项目文档
+├── analysis_code.py        # 用于数据分析和可视化的Python代码
+├── images                 # 包含可视化结果的图片文件夹
+│   ├── python_code.png     # Python代码截图
+│   ├── python_results.png  # Python结果截图
+
+---
+
 ## 数据集概述
 - **数据集名称**: 个人工资及相关因素数据集
 - **记录数量**: 3000 条记录
