@@ -4,9 +4,10 @@
 该数据集包含了个人的工资及其相关的社会、经济因素，如年龄、婚姻状态、种族、教育程度、健康状况等。数据可用于分析哪些因素对工资水平有显著影响，特别是在“学习分析”（Learning Analytics）项目的背景下，可探索不同人群的工资差异和背后的学习、教育背景。
 
 ## 徽章 (Badges)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/your-repo) <!-- 替换为你项目的GitHub仓库 -->
-![License](https://img.shields.io/github/license/your-username/your-repo) <!-- 替换为你项目的License -->
-![GitHub contributors](https://img.shields.io/github/contributors/your-username/your-repo) <!-- 替换为你项目的贡献者徽章 -->
+![GitHub last commit](https://img.shields.io/github/last-commit/948522364/Ying-Wang)
+![License](https://img.shields.io/github/license/948522364/Ying-Wang)
+![GitHub contributors](https://img.shields.io/github/contributors/948522364/Ying-Wang)
+
 
 ## 数据集概述
 - **数据集名称**: 个人工资及相关因素数据集
