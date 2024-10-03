@@ -1,4 +1,4 @@
-# Ying-Wang
+
 ![工资及相关因素](Personal%20salary%20and%20other%20factors.png)
 
 ## 项目背景
@@ -89,7 +89,7 @@ DDI 标准帮助我们提供详细的元数据，涵盖了：
 
 ## ORCID 和 DOI 信息
 - **ORCID ID**: [0009-0003-2519-6097](https://orcid.org/0009-0003-2519-6097)
-- **DOI**: DOI not available yet。
+- **DOI**: DOI not available yet
 
 ---
 
@@ -112,5 +112,3 @@ DDI 标准帮助我们提供详细的元数据，涵盖了：
 
 ---
 
-## License
-该数据集和文档遵循 MIT License 开放许可协议。
